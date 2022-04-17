@@ -4,3 +4,6 @@ On daily basis because so that I can code at leat 1 hour a day and get consistan
 
 
 Today is my second day and would like to upload the 2nd day of learning . 
+
+
+Today I learned about function and did some question of function as a part of learning.
