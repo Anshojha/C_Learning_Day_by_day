@@ -1,0 +1,2 @@
+The number is 32
+Thank you for the writing this file using fprintf
