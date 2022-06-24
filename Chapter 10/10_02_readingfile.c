@@ -12,6 +12,5 @@ int main(){
     printf("The value of is %d\n",num);
     printf("The value of is %d",num2);
     }
-
      return 0;
 }
